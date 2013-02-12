@@ -1,0 +1,8 @@
+<KrossScripting>
+    <collection comment="Tools" name="tools" text="Tools" >
+        <script text="Kaynak Metni Tarayıcı Üzerinde Google Translate'te Çevir"
+                name="lookup-google-translate"
+                file="lookup-google-translate.py"
+                interpreter="python"/>
+    </collection>
+</KrossScripting>
