@@ -1,0 +1,8 @@
+<KrossScripting>
+    <collection comment="Tools" name="tools" text="Tools" >
+        <script text="Seçili Metnin Anlamına Tureng'de Bak"
+                name="lookup-selected-tureng"
+                file="lookup-selected-tureng.py"
+                interpreter="python"/>
+    </collection>
+</KrossScripting>
