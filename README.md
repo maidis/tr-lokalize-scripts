@@ -1,7 +1,7 @@
 tr-lokalize-scripts
 ===================
 
-Lokalize scripts for Turkish language
+Türkçe için Lokalize betikleri (Lokalize scripts for Turkish)
 
 Yapılacaklar
 
