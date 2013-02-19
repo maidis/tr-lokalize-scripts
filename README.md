@@ -10,4 +10,3 @@ bağlam Your names veya NAME OF TRANSLATORS içeriyorsa Lokalize ayarlarındaki
 ismi (/home/maidis/.kde/share/config/lokalizerc dosyasındaki authorName
 bölümünden) ekleyecek, metin ve/veya bağlam Your emails veya EMAIL OF
 TRANSLATORS içeriyorsa Lokalize ayarlarındaki e-posta adresini ekleyecek.
-
